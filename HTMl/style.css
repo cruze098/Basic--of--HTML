@@ -1,0 +1,11 @@
+body{
+    background-color: #88E0EF;
+  }
+  hr{
+    background-color: white;
+    border-style: inset;
+    border-top-style: dashed;
+    border color: grey;
+    border-width: 2px;
+    width:30%;
+  }
